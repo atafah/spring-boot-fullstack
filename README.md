@@ -1,3 +1,3 @@
 # spring-boot-fullstack
 
-E-commerce fullstack 
+Full Stack E-commerce app
