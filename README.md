@@ -1,5 +1,5 @@
 # spring-boot-fullstack
 
-iN PrOgREss
+iN PrOgREsssss
 Full Stack E-commerce APP
 :D
